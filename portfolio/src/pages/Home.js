@@ -3,13 +3,13 @@ function Home() {
 		<section>
 			<div>
 			<h1 style={{color:"#658E9C"}}>About Me</h1>
-			<img alt="Picture of Breanna Schmidt">
+			<img alt="Shows Breanna Schmidt">
 			</img>
 			</div>
 
 			<div>
-				<h1 style={{color:"#658E9C"}}>A Breif Look at My Projects</h1>
-				<img alt="Picture of Projects">
+				<h1 style={{color:"#658E9C"}}>A Brief Look at My Projects</h1>
+				<img alt="Projects">
 				</img>
 			</div>
 
