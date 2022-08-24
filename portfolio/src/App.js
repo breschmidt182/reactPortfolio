@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.scss'
+import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Container from "react-bootstrap/Container"
 import Navigation from './components/Navigation';

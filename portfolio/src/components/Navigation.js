@@ -1,24 +1,52 @@
-// import Container from "react-bootstrap/Container"
-// import Nav from "react-bootstrap/Nav"
-// import Navbar from "react-bootstrap/Navbar"
-
+import 'bulma/css/bulma.min.css';
 const Navigation = (props) => {
  return (
-	// <Navbar bg="dark" variant="dark" expand="lg" fixed="top">
-  //   <Container>
-  //   	<Navbar.Brand href="/">Welcome to my Portfolio 😀</Navbar.Brand>
-  //     <Navbar.Toggle aria-controls="basic-navbar-nav" />
-  //     <Navbar.Collapse id="basic-navbar-nav">
-  //     	<Nav className="me-auto">
-  //         <Nav.Link href="/about"> About Me </Nav.Link>
-  //         <Nav.Link href="/portfolio"> Portfolio </Nav.Link>
-  //         <Nav.Link href="/contact"> Contact </Nav.Link>
-	// 				<Nav.Link href="/resume">Resume</Nav.Link>
-  //     	</Nav>
-  //     </Navbar.Collapse>
-  //   </Container>
-  //   </Navbar>
-	<div></div>
+	<nav className="navbar is-light has-shadow is-spaced" role="navigation" aria-label="main navigation">
+  <div className="navbar-brand">
+    <a className="navbar-item" href="/">
+      <img src="https://www.freepnglogos.com/uploads/circle-png/grunge-frame-circle-png-clipart-29.png"></img>
+     Breanna Schmidt's Portfolio</a>
+
+    <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" className="navbar-menu">
+    <div className="navbar-start">
+      <a className="navbar-item" href="/about">
+        About Me
+      </a>
+
+      <a className="navbar-item" href='/portfolio'>
+        Portfolio
+      </a>
+
+			<a className="navbar-item" href='/contact'>
+        Contact
+      </a>
+
+			<a className="navbar-item" href='/resume'>
+        Resume
+      </a>
+    </div>
+
+    {/* <div class="navbar-end">
+      <div class="navbar-item">
+        <div class="buttons">
+          <a class="button is-primary">
+            <strong>Sign up</strong>
+          </a>
+          <a class="button is-light">
+            Log in
+          </a>
+        </div>
+      </div>
+    </div> */}
+  </div>
+</nav>
  )
 }
 
