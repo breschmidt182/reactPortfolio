@@ -4,17 +4,12 @@ const Navigation = (props) => {
 	<nav className="navbar is-light has-shadow is-spaced" role="navigation" aria-label="main navigation">
   <div className="navbar-brand">
     <a className="navbar-item" href="/">
-      <img src="https://www.freepnglogos.com/uploads/circle-png/grunge-frame-circle-png-clipart-29.png"></img>
-     Breanna Schmidt's Portfolio</a>
-
-    <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
+      <img src="https://www.freepnglogos.com/uploads/circle-png/grunge-frame-circle-png-clipart-29.png" alt="sketched out circle"></img>
+     Breanna Schmidt's Portfolio
+		</a>
   </div>
 
-  <div id="navbarBasicExample" className="navbar-menu">
+  <div id="navbarBasicExample" className="navbar-menu has-dropdown is-active">
     <div className="navbar-start">
       <a className="navbar-item" href="/about">
         About Me
@@ -32,19 +27,6 @@ const Navigation = (props) => {
         Resume
       </a>
     </div>
-
-    {/* <div class="navbar-end">
-      <div class="navbar-item">
-        <div class="buttons">
-          <a class="button is-primary">
-            <strong>Sign up</strong>
-          </a>
-          <a class="button is-light">
-            Log in
-          </a>
-        </div>
-      </div>
-    </div> */}
   </div>
 </nav>
  )

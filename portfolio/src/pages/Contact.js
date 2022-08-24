@@ -1,31 +1,38 @@
-import Buton from 'react-bootstrap/Button'
-import Form from 'react-bootstrap/Form'
 function Contact() {
 	return (
-		<div>
-			<h3>Contact Me!</h3>
-			<form>
-				<Form.Group className='mb-3' controlId='formBasicName'>
-					<Form.Label>Name: </Form.Label>
-					<Form.Control size="lg" type="string" placeholder='Enter Your Name Here' />
-				</Form.Group>
+		<form>
+			<div className='field'>
+				<label className='label'>Name</label>
+				<div className='control'>
+					<input className='input' type='text' placeholder='Enter name here'></input>
+				</div>
+			</div>
+			<div className='field'>
+				<label className='label'>Email</label>
+				<div className='control has-icons-left has-icons-right'>
+					<input className='input' type='email' placeholder='Enter email address here'></input>
+					<span className='icon is-small is-left'>
+						<i className='fas fa-envelope'></i>
+					</span>
+				</div>
+			</div>
 
-				<Form>
-      <Form.Group className="mb-3" controlId="formBasicEmail">
-        <Form.Label>Email address: </Form.Label>
-        <Form.Control size="lg" type="email" placeholder="name@example.com" />
-      </Form.Group>
+			<div className='field'>
+				<label className='label'>Message</label>
+				<div className='control'>
+					<textarea className='textarea' placeholder='Type message here'></textarea>
+				</div>
+			</div>
 
-      <Form.Group className="mb-3" controlId="formBasicText">
-        <Form.Label>Message: </Form.Label>
-        <Form.Control size="lg" as="textarea" rows={3} />
-      </Form.Group>
-    </Form>
-				<Buton variant="primary" type="send">
-					Send Message
-				</Buton>
-			</form>
-		</div>
+			<div className='field is-grouped'>
+				<div className='control'>
+					<button className='button is-link'>Submit</button>
+				</div>
+				<div className='control'>
+					<button className='button is-link is-danger'>Cancel</button>
+				</div>
+			</div>
+		</form>
 	)
 }
 
