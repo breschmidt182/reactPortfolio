@@ -26,10 +26,6 @@ function App() {
 					</Router>
 				</Container>
       </header>
-			<main>
-
-			</main>
-			<footer></footer>
     </div>
   );
 }

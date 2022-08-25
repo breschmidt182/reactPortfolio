@@ -1,25 +1,13 @@
 function Home() {
 	return (
-		// <section>
-		// 	<div>
-		// 	<h1 style={{color:"#658E9C"}}>About Me</h1>
-		// 	<img alt="Shows Breanna Schmidt">
-		// 	</img>
-		// 	</div>
-
-		// 	<div>
-		// 		<h1 style={{color:"#658E9C"}}>A Brief Look at My Projects</h1>
-		// 		<img alt="Projects">
-		// 		</img>
-		// 	</div>
-
-		// 	<div>
-		// 		<div>
-		// 			<h1 style={{color:"#658E9C"}}> Have Questions?</h1>
-		// 			<h3>Please go to the Contact section and send me a message!</h3>
-		// 		</div>
-		// 	</div>
-		// </section>
+ <main>
+	<section className="hero">
+  	<div className="hero-body">
+    	<p className="title">
+      	Welcome to my portfolio
+    	</p>
+  	</div>
+	</section>
 	<div className="tile is-ancestor">
 		<div className="tile is-4 is-vertical is-parent">
 		<div className="tile is-child box">
@@ -45,6 +33,19 @@ function Home() {
 			</div>
 		</div>
 	</div>
+	<footer className="footer">
+  	<div className="content has-text-centered">
+    	<p>
+      	<strong>Bre Schmidt</strong> 
+				<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new "> Feel free to contact me!</a>
+   	 </p>
+		 <p>Copyright &copy; <strong>Breanna Schmidt</strong> 2022</p>
+		 <a href=""><img className="icons" src={require("../images/icons/github.png")} alt="Github logo"></img></a>
+		 <a href=""><img className="icons" src={require("../images/icons/linkedin.png")} alt="LinkedIn logo"></img></a>
+		 <a href=""><img className="icons" src={require("../images/icons/instagram.png")} alt="Instagram logo"></img></a>
+ 	 </div>
+	</footer>
+ </main>
 	)
 }
 

@@ -2,7 +2,7 @@ function Resume() {
 	return (
 		<div>
 			<main>
-				<a href="https://docs.google.com/document/d/13mUqo6c9Tz1sztZiKrlKxxUmiuwr-LKfCs30w_dCgWU/edit?usp=sharing" target={'_blank'} rel="noopener noreferrer">Download my Resume Here!</a>
+				<a href="https://docs.google.com/document/d/1nrfXxWMhjD1GVgq5268YYXQIv9ouKK8_lKVq9zaDOxo/edit" target={'_blank'} rel="noopener noreferrer">Download my Resume Here!</a>
 			</main>
 		</div>
 	)
