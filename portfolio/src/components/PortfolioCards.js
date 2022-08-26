@@ -1,18 +1,27 @@
 function PortfolioCards(props) {
 	return (
-		<div>
-			<card className="projects">
-				<h1 style={{ fontSize: "30px", fontWeight: "bold", color: "blue"}}>
-					{props.title}
-				</h1>
-				<img>
-				  {props.image}
-				</img>
-				<h3>
-					{props.description}
-				</h3>
-			</card>
-		</div>
+		<main className="card column">
+			<h1 className="card-header-title">{props.title}</h1>
+			<div className="card-image">
+				<figure className="card-image">
+					<img src={require(props.img)} />
+				</figure>
+			</div>
+			<div className="media">
+				<a className="media-left">
+					{props.link}
+				</a>
+				<a className="media-right"> {props.repo}
+					<figure className="card-header-icon">
+						<img src={require("../images/icons/github.png")} />
+					</figure>
+				</a>
+				</div>
+			
+			<section className="card-content">
+				{props.description}
+			</section>
+		</main>
 	)
 }
 
