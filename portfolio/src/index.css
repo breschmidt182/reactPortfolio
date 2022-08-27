@@ -24,9 +24,52 @@ code {
 	color: red;
 }
 
+
 .pdfDownload {
-	/* background-color: black; */
+	display: flex;
+	justify-content: center;
+	background-color: black;
 	text-decoration: none !important;
 	color: white;
-	margin-top: 15px;
+	/* margin-top: 15px;
+	margin-bottom: 10px; */
 }
+
+.title{
+	text-align: center;
+}
+
+.res {
+	text-align: left;
+}
+
+.resImg {
+	padding-top: 30px;
+}
+
+#frontEnd{
+ padding-top: 40px;
+}
+
+#db {
+	padding-top: 50px;
+}
+
+.skill {
+	font-weight: bold;
+}
+
+.tile {
+	flex-wrap: wrap;
+	
+}
+
+.me {
+	width: 300px;
+	height: auto;
+}
+
+#meImg {
+	border-radius: 25px;
+}
+

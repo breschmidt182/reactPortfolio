@@ -10,7 +10,7 @@ const Navigation = (props) => {
   </div>
 
   <div id="navbarBasicExample" className="navbar-menu has-dropdown is-active">
-    <div className="navbar-start">
+    <div className="navbar-end">
       <a className="navbar-item" href="/about">
         About Me
       </a>
