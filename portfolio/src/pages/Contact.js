@@ -65,6 +65,14 @@ function Contact() {
 				</div>
 			</div>
 
+			<div className='errorMsg'>
+				{error && (
+					<div>
+						<p className='error-text'>{error}</p>
+					</div>
+				)}
+			</div>
+
 			<div className='field is-grouped'>
 				<div className='control'>
 					<button className='button is-link'>Submit</button>

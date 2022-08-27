@@ -17,3 +17,9 @@ code {
 	height: 35px;
 	margin: 0 15px 5px 0;
 }
+
+.errorMsg {
+	margin: 0 5px 5px 0;
+	padding-bottom: 10px;
+	color: red;
+}
