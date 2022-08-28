@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+	"homepage:": "http://breschmidt182.github.io/reactPortfolio",
   "private": true,
   "dependencies": {
     "@formspree/core": "^2.7.1",
@@ -21,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
