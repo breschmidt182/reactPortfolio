@@ -4,13 +4,13 @@ function PortfolioCards(props) {
 			<h1 className="card-header-title is-spaced">{props.title}</h1>
 			<div className="card-image">
 				<figure className="card-image">
-					<img src={props.img} />
+					<img src={props.img} alt="project preview" />
 				</figure>
 			</div>
 			<div className="media">
 			 <button><a className="media-left" href={props.link}>Click Here to View Project</a></button>
 				<a className="media-right" href={props.repo}> 
-						<img className="icons" src={require("../images/icons/github.png")} />
+						<img className="icons" src={require("../images/icons/github.png")} alt="GitHub icon" />
 				</a>
 				</div>
 			
