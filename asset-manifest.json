@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76ba9267.css",
+    "main.js": "/static/js/main.e2f6144f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/runBuddy.png": "/static/media/runBuddy.b005eef47e5e45895614.png",
+    "static/media/me.JPG": "/static/media/me.917a1cbd9326408f9af3.JPG",
+    "static/media/dataBase.jpg": "/static/media/dataBase.3ec082a8399c3b5756a6.jpg",
+    "static/media/whatsForDinner.jpg": "/static/media/whatsForDinner.0493b0f6823bb5d36658.jpg",
+    "static/media/Img4homePg.jpg": "/static/media/Img4homePg.5a2e7af854af857648c8.jpg",
+    "static/media/wrkDaySched.png": "/static/media/wrkDaySched.322d9e9d09c425fe9298.png",
+    "static/media/backEnd.jpg": "/static/media/backEnd.c5343a825c47d408a086.jpg",
+    "static/media/pwaBudgetTracker.png": "/static/media/pwaBudgetTracker.06a2f012943296d8578b.png",
+    "static/media/frontEnd.jpg": "/static/media/frontEnd.8b6db9c80a2bf591456a.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.9b874e476d03d3f68f87.png",
+    "static/media/api.png": "/static/media/api.a55e45c12ccf58ce3f6d.png",
+    "static/media/instagram.png": "/static/media/instagram.95cf6ecfe96db66b7db9.png",
+    "static/media/eventBuddy.png": "/static/media/eventBuddy.e634417f7d967afaa29b.png",
+    "static/media/github.png": "/static/media/github.c256b0c5854cb98a88a7.png",
+    "static/media/linkedin.png": "/static/media/linkedin.0dd0bdb73750b89fa7fb.png",
+    "index.html": "/index.html",
+    "main.76ba9267.css.map": "/static/css/main.76ba9267.css.map",
+    "main.e2f6144f.js.map": "/static/js/main.e2f6144f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ba9267.css",
+    "static/js/main.e2f6144f.js"
+  ]
+}
