@@ -13,7 +13,7 @@ Be able to showcase developers ability and easy ways to contact them.
 
 # Links 
 GitHub:https://github.com/breschmidt182/reactPortfolio
-Live: 
+Live: https://bre-portfolio.herokuapp.com/
 (Instructor said it was ok to deploy using heroku)
 
 # Resources
