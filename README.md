@@ -1,6 +1,6 @@
 # React Portfolio
 Be able to showcase developers ability and easy ways to contact them.
-[See live site here](http://192.168.1.123:3000/)
+[See live site here]()
 
 # User Story
 ![user story](./src/images/readmeImg/userStory.png)
