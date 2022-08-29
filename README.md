@@ -14,6 +14,7 @@ Be able to showcase developers ability and easy ways to contact them.
 # Links 
 GitHub:https://github.com/breschmidt182/reactPortfolio
 Live: 
+(Instructor said it was ok to deploy using heroku)
 
 # Resources
 - Front end img(resume pg): https://www.syncfusion.com/blogs/post/top-6-front-end-web-development-tools-to-increase-your-productivity-in-2020.aspx
