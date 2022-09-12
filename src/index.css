@@ -78,3 +78,32 @@ code {
 	height: auto;
 }
 
+.content{
+	flex: 1 0 auto;
+}
+
+.stickyFooter {
+	flex-shrink: 0;
+}
+
+.strengthsLi {
+	width: 100%;
+}
+
+#leftLi {
+	text-align: center;
+	float: left;
+	width: 25%;
+}
+
+#centerLi {
+	text-align: center;
+	float: left;
+	width: 30%;
+}
+
+#rightLi {
+	text-align: center;
+	float: left;
+	width: 25%;
+}

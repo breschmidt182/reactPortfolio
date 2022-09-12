@@ -42,6 +42,9 @@ function Contact() {
 
 	return (
 		<form onSubmit={handleSubmit}>
+			<br></br>
+			<h1 className='title'>Contact me through this form via Form Spree or feel free to email me at breanna.schmidt12@gmail.com 😊</h1>
+			<br></br>
 			<div className='field'>
 				<label className='label'>Name</label>
 				<div className='control'>
