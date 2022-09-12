@@ -1,8 +1,9 @@
+import pdf from ''
 function Resume() {
 	return (
 		<div>
 			<h1 className="title res">Resume</h1>
-			<button className='pdfDownload'><a className='pdfDownload' href="images/webDevResume.pdf">Download Resume Here!</a></button>
+			<button className='pdfDownload'><a className='pdfDownload' >Download Resume Here!</a></button>
 			<h1 className="title">Tech Stack</h1>
 			<ul className="techStack columns">
 				<li className="column skill level-item">HTML, CSS, Javascript, jQuery
