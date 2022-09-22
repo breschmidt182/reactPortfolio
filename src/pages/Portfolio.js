@@ -28,8 +28,8 @@ function Portfolio(props) {
 				title="Event Buddy"
 				img={eventBuddy}
 				description="The idea for this app was to create something users could use to find events near them. Whether it was a concert or someone trying to find enough people to play a basketball game. Currently not fully functional due to a lack of time."
-				link="https://breschmidt182.github.io/work-day-scheduler/"
-				repo="https://github.com/breschmidt182/work-day-scheduler"
+				link="https://murmuring-springs-16959.herokuapp.com/"
+				repo="https://github.com/cmskorcz/bootcamp_project_2"
 			/>
 
 			<PortfolioCards className="tile is-parent"
