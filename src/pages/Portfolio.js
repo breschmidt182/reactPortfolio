@@ -35,7 +35,7 @@ function Portfolio(props) {
 			<PortfolioCards className="tile is-parent"
 				title="Run Buddy"
 				img={runBuddy}
-				description="A landing page for a running company advertising their trainign program"
+				description="A landing page for a running company advertising their training program"
 				link="https://breschmidt182.github.io/run-buddy/"
 				repo="https://github.com/breschmidt182/run-buddy"
 			/>
