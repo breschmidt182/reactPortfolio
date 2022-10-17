@@ -1,6 +1,6 @@
 function Footer() {
 	return(
-		<footer className="footer stickyFooter">
+		<footer className="footer">
   		<div className="content has-text-centered">
     		<p>
       		<strong>Bre Schmidt</strong> 
