@@ -2,8 +2,8 @@ import PortfolioCards from '../components/PortfolioCards'
 import workDayImg from '../images/wrkDaySched.png'
 import whatsForDinner from '../images/whatsForDinner.jpg'
 import eventBuddy from '../images/eventBuddy.png'
-import runBuddy from '../images/runBuddy.png'
-import pwaBudget	from '../images/pwaBudgetTracker.png'
+import ecommerce from '../images/ecommerceBTS.png'
+import purrfectPetShop	from '../images/PurrfectPetShop.png'
 import portfolio from '../images/portfolio.png'
 
 function Portfolio(props) {
@@ -33,19 +33,19 @@ function Portfolio(props) {
 			/>
 
 			<PortfolioCards className="tile is-parent"
-				title="Run Buddy"
-				img={runBuddy}
-				description="A landing page for a running company advertising their training program"
-				link="https://breschmidt182.github.io/run-buddy/"
-				repo="https://github.com/breschmidt182/run-buddy"
+				title="Purrfect Pet Shop"
+				img={purrfectPetShop}
+				description="Users can use this app to shop for their cats. Instead of having to dig around for cat products on other online pet shops, there is now a shop specifically for cats"
+				link="https://murmuring-springs-16959.herokuapp.com/"
+				repo="https://github.com/cmskorcz/bootcamp_project_2"
 			/>
 
 			<PortfolioCards className="tile is-parent"
-				title="PWA Budget Tracker"
-				img={pwaBudget}
-				description="An application created to keep track of your spending"
-				// link="https://breschmidt182.github.io/pwaBudgetTracker/"
-				repo="https://github.com/breschmidt182/pwaBudgetTracker"
+				title="E-commerce Behind the Scenes "
+				img={ecommerce}
+				description="server side project for an ecommerce site"
+				link="https://drive.google.com/file/d/1tCpjw1wCLH_AtUPtcVgm2Mo0DYfDWDJt/view"
+				repo="https://github.com/breschmidt182/ecommerceBehindTheScenes"
 			/>
 
 			<PortfolioCards className="tile is-parent"

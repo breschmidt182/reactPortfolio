@@ -21,7 +21,7 @@ function Resume() {
 					</li>
 				</ul>
 			</div>
-			<div className='content is-normal strengthsLi'>
+			{/* <div className='content is-normal strengthsLi'>
 				<h1 className='title'>Strengths</h1>
 					<ul className="column level-item" id="leftLi">
 						<h2>Front-end:</h2>
@@ -52,7 +52,7 @@ function Resume() {
 						<li>Analytical skills</li>
 						<li>Strong communication skills</li>
 					</ul>
-			</div>
+			</div> */}
 		</div>
 		
 	)
