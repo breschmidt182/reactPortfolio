@@ -1,4 +1,4 @@
-import pdf from '../'
+import pdf from '../WebDevResume.pdf'
 function Resume() {
 	return (
 		<div className='content'>
@@ -21,6 +21,7 @@ function Resume() {
 					</li>
 				</ul>
 			</div>
+
 		</div>
 		
 	)

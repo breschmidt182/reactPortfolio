@@ -3,13 +3,13 @@ const Navigation = (props) => {
  return (
 <nav className="navbar is-light has-shadow is-spaced" role="navigation" aria-label="main navigation">
   <div className="navbar-brand scale-in-hor-left">
-    <a className="navbar-item title is-3" href="/">
+    <a className="navbar-item title is-4" href="/">
       <img src="https://www.freepnglogos.com/uploads/circle-png/grunge-frame-circle-png-clipart-29.png" alt="sketched out circle"></img>
      Breanna Schmidt
 		</a>
   </div>
 
-  <div id="navbarBasicExample" className="navbar-menu has-dropdown is-active title is-3">
+  <div id="navbarBasicExample" className="navbar-menu has-dropdown is-active title is-4">
     <div className="navbar-end">
       <a className="navbar-item slide-in-right" href="/about">
         About Me
