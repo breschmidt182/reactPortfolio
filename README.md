@@ -6,7 +6,7 @@ Be able to showcase developers ability and easy ways to contact them.
 In order to use the link in the footer you may have to copy and paste this 'mail.google.com/mail/u/0/#inbox' in your url and then hit allow. This will allow your browser to open up the link I have provided to more efficiently send me an email. 
 
 # Screenshot
-![screenshot of app](./src/images/readmeImg/Screenshot.png)
+![screenshot of app](./src/images/Screenshot.png)
 
 # Links 
 GitHub:https://github.com/breschmidt182/reactPortfolio
