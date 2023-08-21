@@ -12,7 +12,7 @@ function PortfolioCards(props) {
 			</section>
 			<div className="media">
 			 <button><a className="media-left" href={props.link} target="_blank" rel="noopener noreferrer">Click Here to View Project</a></button>
-				<a className="media-right" href={props.repo} target="_blank"> 
+				<a className="media-right" href={props.repo} target="_blank" rel="noopener noreferrer"> 
 						<img className="icons" src={require("../images/icons/github.png")} alt="GitHub icon" />
 				</a>
 				</div>
