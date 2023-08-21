@@ -10,7 +10,7 @@ function Home() {
 	</section>
 	<div className="tile is-ancestor">
 		<div className="tile is-4 is-vertical is-parent">
-		<div className="tile is-child box">
+			<div className="tile is-child box">
 				<p className="title">About Me</p>
 				<a href="/about">
 				<img src={require("../images/possibleAboutMePic.jpg")} alt='Breanna Schmidt'></img>
