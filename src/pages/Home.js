@@ -13,7 +13,7 @@ function Home() {
 		<div className="tile is-child box">
 				<p className="title">About Me</p>
 				<a href="/about">
-				<img src={require("../images/me.JPG")} alt='Breanna Schmidt'></img>
+				<img src={require("../images/possibleAboutMePic.jpg")} alt='Breanna Schmidt'></img>
 				</a>
 			</div>
 
@@ -28,7 +28,7 @@ function Home() {
 			<div className="tile is-child box">
 				<p className="title">A Brief Look at My Projects</p>
 				<a href="/portfolio">
-				<img src={require("../images/Img4homePg.jpg")} alt='Computer screen with lines of code on screen'></img>
+				<img src={require("../images/computerCode.jpg")} alt='Computer screen with lines of code on screen'></img>
 				</a>
 			</div>
 		</div>
