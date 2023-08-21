@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.98932323.css",
-    "main.js": "/static/js/main.c82ddd02.js",
+    "main.css": "/static/css/main.e8cd717f.css",
+    "main.js": "/static/js/main.4d409568.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/runBuddy.png": "/static/media/runBuddy.b005eef47e5e45895614.png",
-    "static/media/me.JPG": "/static/media/me.917a1cbd9326408f9af3.JPG",
-    "static/media/dataBase.jpg": "/static/media/dataBase.3ec082a8399c3b5756a6.jpg",
-    "static/media/whatsForDinner.jpg": "/static/media/whatsForDinner.0493b0f6823bb5d36658.jpg",
-    "static/media/Img4homePg.jpg": "/static/media/Img4homePg.5a2e7af854af857648c8.jpg",
-    "static/media/wrkDaySched.png": "/static/media/wrkDaySched.322d9e9d09c425fe9298.png",
-    "static/media/backEnd.jpg": "/static/media/backEnd.c5343a825c47d408a086.jpg",
-    "static/media/pwaBudgetTracker.png": "/static/media/pwaBudgetTracker.06a2f012943296d8578b.png",
+    "static/media/purrfectPetShop.png": "/static/media/purrfectPetShop.6e1d410da71a1c6ecfc5.png",
+    "static/media/WhatsForDinner.png": "/static/media/WhatsForDinner.465b361d3e37fa15803d.png",
+    "static/media/btsEcommerce.png": "/static/media/btsEcommerce.f2ae8cb1f888d4f7a0f1.png",
+    "static/media/computerCode.jpg": "/static/media/computerCode.109790ee0c4f3b168dbf.jpg",
+    "static/media/database.png": "/static/media/database.ef4c15f79ec644f498a8.png",
+    "static/media/wrkdaySched.png": "/static/media/wrkdaySched.a3f93366aa6321daf357.png",
+    "static/media/backEnd.png": "/static/media/backEnd.8647c652c1fa341cf02a.png",
+    "static/media/possibleAboutMePic.jpg": "/static/media/possibleAboutMePic.379124bc8149feb9101e.jpg",
+    "static/media/WebDevResume.pdf": "/static/media/WebDevResume.e4c11198a7d3f3008fd1.pdf",
     "static/media/frontEnd.jpg": "/static/media/frontEnd.8b6db9c80a2bf591456a.jpg",
-    "static/media/portfolio.png": "/static/media/portfolio.9b874e476d03d3f68f87.png",
-    "static/media/api.png": "/static/media/api.a55e45c12ccf58ce3f6d.png",
+    "static/media/api.png": "/static/media/api.2efcb0a1e96e5de2aff7.png",
     "static/media/instagram.png": "/static/media/instagram.95cf6ecfe96db66b7db9.png",
-    "static/media/eventBuddy.png": "/static/media/eventBuddy.e634417f7d967afaa29b.png",
     "static/media/github.png": "/static/media/github.c256b0c5854cb98a88a7.png",
     "static/media/linkedin.png": "/static/media/linkedin.0dd0bdb73750b89fa7fb.png",
     "index.html": "/index.html",
-    "main.98932323.css.map": "/static/css/main.98932323.css.map",
-    "main.c82ddd02.js.map": "/static/js/main.c82ddd02.js.map",
+    "main.e8cd717f.css.map": "/static/css/main.e8cd717f.css.map",
+    "main.4d409568.js.map": "/static/js/main.4d409568.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98932323.css",
-    "static/js/main.c82ddd02.js"
+    "static/css/main.e8cd717f.css",
+    "static/js/main.4d409568.js"
   ]
 }
