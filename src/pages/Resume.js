@@ -8,7 +8,7 @@ function Resume() {
 				<h1 className="title">Tech Stack</h1>
 				<ul className="techStack columns">
 					<li className="column skill level-item">HTML, CSS, Javascript, jQuery
-						<img className="resImg level-item" id="frontEnd" src={require('../images/frontEnd.png')} alt="front end"></img>
+						<img className="resImg level-item" id="frontEnd" src={require('../images/frontEnd.jpg')} alt="front end"></img>
 					</li>
 					<li className="column skill level-item">Node.js, Jest, inquirer, Express, npms
 						<img className="level-item" src={require('../images/backEnd.png')} alt="back end"></img>

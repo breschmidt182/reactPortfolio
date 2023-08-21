@@ -4,7 +4,7 @@ function Footer() {
   		<div className="content has-text-centered">
     		<p>
       		<strong>Bre Schmidt</strong> 
-					<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new " target="_blank"> Feel free to contact me at <strong>breanna.schmidt12@gmail.com</strong></a>
+					<a href="mailto:breanna.schmidt12@gmail.com" target="_blank" rel="noreferrer"> Contact me at <strong>breanna.schmidt12@gmail.com</strong></a>
    	 		</p>
 		 		<p>Copyright &copy; <strong>Breanna Schmidt</strong> 2022</p>
 		 		<a href="https://github.com/breschmidt182?tab=repositories" target="_blank" rel="noopener noreferrer"><img className="icons" src={require("../images/icons/github.png")} alt="Github logo"></img></a>
